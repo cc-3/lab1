@@ -141,8 +141,7 @@ Una vez mas, deben subir el ejercicio terminado a GitHub.
 
 #### Ejercicio 4: Pearls Before Swine
 
-Esta es una versión de un juego bien cool que tiene una solución basada en number representation. Jueguen en el siguiente [link](/assets/games/
-pearls3b.swf). Primero jueguen un par de veces y vean si pueden ganar algunos rounds.
+Esta es una versión de un juego bien cool que tiene una solución basada en number representation. Jueguen en el siguiente [link](http://cc-3.github.io/assets/games/pearls3b.swf). Primero jueguen un par de veces y vean si pueden ganar algunos rounds.
 
 ![figura3](/img/lab1_fig3.png)
 
